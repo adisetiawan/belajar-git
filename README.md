@@ -1,3 +1,3 @@
-# My Awesome Book
+# Belajar Git untuk Pemula
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Jika kamu belum pernah menggunakan Git atau repository lain, sudah waktunya untuk menggunakan git. Disini kita belajar menggunakan perintah dasar git
