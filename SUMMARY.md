@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Awalan](README.md)
+* [Tentang Git](chapter1.md)
+
